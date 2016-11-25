@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{2DA2320D-6ACD-4282-BE59-2879EF656267}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="AlexPlaygon.cs" Line="25" Column="2" />
+      <File FileName="AlexPerson.cs" Line="16" Column="1" />
+      <File FileName="Program.cs" Line="134" Column="63" />
+      <File FileName="MyModel/AlexCalPoints.cs" Line="10" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Turtleexercice PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
