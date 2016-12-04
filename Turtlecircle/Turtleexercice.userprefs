@@ -1,10 +1,12 @@
 ﻿<Properties StartupConfiguration="{2DA2320D-6ACD-4282-BE59-2879EF656267}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="AlexPlaygon.cs" Line="25" Column="2" />
+      <File FileName="AlexPlaygon.cs" Line="22" Column="22" />
       <File FileName="AlexPerson.cs" Line="16" Column="1" />
-      <File FileName="Program.cs" Line="134" Column="63" />
-      <File FileName="MyModel/AlexCalPoints.cs" Line="10" Column="60" />
+      <File FileName="Program.cs" Line="137" Column="27" />
+      <File FileName="MyModel/AlexCalPoints.cs" Line="16" Column="27" />
+      <File FileName="MyModel/PointF.cs" Line="15" Column="3" />
+      <File FileName="MyModel/Rectangle.cs" Line="18" Column="8" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

@@ -20,7 +20,6 @@ public class AlexPloygon : Gtk.Window
 		this.Add(drawingArea);
 		// Display the drawing surface
 		drawingArea.Show();
-
 	}
 
 	// Initialize the TurtleWindow with a desired one

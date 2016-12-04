@@ -134,7 +134,7 @@ namespace turtletest
 			PointF[] star_points = 
 				//new AlexCalPoints().MakeStarPoints(Math.PI / 2, num_points, skip, rect);
 
-				AlexCalPoints.MakeStarPoints(-Math.PI / 2, num_points, skip, rect);
+			AlexCalPoints.MakeStarPoints(-Math.PI / 2, num_points, skip, rect);
 
 			turtle.DrawPolygon(star_points);
 		}
